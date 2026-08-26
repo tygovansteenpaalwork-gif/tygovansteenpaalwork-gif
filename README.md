@@ -1,5 +1,5 @@
 # 💫 About Me:
-ik ben Tygo Vansteenpaal, 18 jaar oud en tweedejaars student aan het Grafisch Lyceum Rotterdam.<br><br>Ik ben geïnteresseerd in programmeren, cybersecurity en het bouwen van software die dagelijkse taken makkelijker maakt. In mijn vrije tijd game ik graag.<br><br>Ik ben altijd op zoek naar manieren om mijn kennis uit te breiden en mezelf verder te ontwikkelen.<br><br>Momenteel focus ik mij op het verbeteren van mijn programmeervaardigheden en het werken aan projecten waarmee ik praktische ervaring opdoe.
+ik ben Tygo Vansteenpaal, 18 jaar oud en derdejaars student aan het Grafisch Lyceum Rotterdam.<br><br>Ik ben geïnteresseerd in programmeren, cybersecurity en het bouwen van software die dagelijkse taken makkelijker maakt. In mijn vrije tijd game ik graag.<br><br>Ik ben altijd op zoek naar manieren om mijn kennis uit te breiden en mezelf verder te ontwikkelen.<br><br>Momenteel focus ik mij op het verbeteren van mijn programmeervaardigheden en het werken aan projecten waarmee ik praktische ervaring opdoe.
 
 
 ## 🌐 Socials:
