@@ -15,7 +15,4 @@ ik ben Tygo Vansteenpaal, 18 jaar oud en derdejaars student aan het Grafisch Lyc
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tygovansteenpaalwork-gif&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=tygovansteenpaalwork-gif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
