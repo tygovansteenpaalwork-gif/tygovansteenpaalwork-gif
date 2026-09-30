@@ -84,14 +84,6 @@
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tygovansteenpaalwork-gif&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00&layout=compact&count_private=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tygovansteenpaalwork-gif/tygovansteenpaalwork-gif/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tygovansteenpaalwork-gif/tygovansteenpaalwork-gif/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/tygovansteenpaalwork-gif/tygovansteenpaalwork-gif/output/github-snake.svg" />
-  </picture>
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7b00,25:ff3d00,60:b30000,100:0d0d0d&height=120&section=footer" alt="footer" />
