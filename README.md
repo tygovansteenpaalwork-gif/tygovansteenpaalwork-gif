@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/tygovansteenpaalwork-gif">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Hoi!+Ik+ben+Tygo+%F0%9F%91%8B;Student+%40+Grafisch+Lyceum+Rotterdam;Web+%E2%80%A2+Lua+%E2%80%A2+Python+%E2%80%A2+TypeScript;Altijd+aan+het+bouwen+%F0%9F%9A%80" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Hoi!+Ik+ben+Tygo;Student+%40+Grafisch+Lyceum+Rotterdam;Web+%E2%80%A2+Lua+%E2%80%A2+Python+%E2%80%A2+TypeScript;Altijd+aan+het+bouwen" alt="typing intro" />
   </a>
 </p>
 
