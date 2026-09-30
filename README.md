@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Talen**
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🚀 Uitgelichte projecten
+##  Uitgelichte projecten
 
 <p align="center">
   <a href="https://github.com/tygovansteenpaalwork-gif/AI_VOICE_JARVIS"><img src="https://github-readme-stats.shion.dev/api/pin/?username=tygovansteenpaalwork-gif&repo=AI_VOICE_JARVIS&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00" alt="AI_VOICE_JARVIS" /></a>
@@ -77,7 +77,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=tygovansteenpaalwork-gif&hide_border=true&background=0d0d0d&stroke=ff3d00&ring=ff7b00&fire=ff3d00&currStreakNum=ffb300&currStreakLabel=ff7b00&sideNums=ffffff&sideLabels=c0c0c0&dates=8b8b8b" alt="GitHub streak" />
