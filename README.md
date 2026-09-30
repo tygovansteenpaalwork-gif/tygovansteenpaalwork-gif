@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/tygovansteenpaalwork-gif">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Hoi!+Ik+ben+Tygo;Student+%40+Grafisch+Lyceum+Rotterdam;Web+%E2%80%A2+Lua+%E2%80%A2+Python+%E2%80%A2+TypeScript;Altijd+aan+het+bouwen" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Hi!+I%27m+Tygo;Student+%40+Grafisch+Lyceum+Rotterdam;Web+%E2%80%A2+Lua+%E2%80%A2+Python+%E2%80%A2+TypeScript;Always+building" alt="typing intro" />
   </a>
 </p>
 
@@ -20,15 +20,15 @@
 
 ---
 
-##  Over mij
+##  About me
 
 <img align="right" width="380" src="https://github-readme-stats.shion.dev/api?username=tygovansteenpaalwork-gif&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
 
--  18 jaar, derdejaars student aan het **Grafisch Lyceum Rotterdam**
--  Geïnteresseerd in **programmeren**, **cybersecurity** en software die dagelijkse taken makkelijker maakt
--  Momenteel bezig met het verbeteren van mijn programmeervaardigheden via echte projecten
--  In mijn vrije tijd game ik graag
--  Altijd op zoek naar manieren om mijn kennis uit te breiden
+-  18 years old, third-year student at **Grafisch Lyceum Rotterdam**
+-  Interested in **programming**, **cybersecurity** and software that makes everyday tasks easier
+-  Currently improving my programming skills through real projects
+-  In my free time I enjoy gaming
+-  Always looking for ways to expand my knowledge
 
 <br clear="right" />
 
@@ -36,7 +36,7 @@
 
 ##  Tech Stack
 
-**Talen**
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,7 +66,7 @@
 
 ---
 
-##  Uitgelichte projecten
+##  Featured projects
 
 <p align="center">
   <a href="https://github.com/tygovansteenpaalwork-gif/AI_VOICE_JARVIS"><img src="https://github-readme-stats.shion.dev/api/pin/?username=tygovansteenpaalwork-gif&repo=AI_VOICE_JARVIS&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00" alt="AI_VOICE_JARVIS" /></a>
