@@ -20,15 +20,15 @@
 
 ---
 
-## 💫 Over mij
+##  Over mij
 
 <img align="right" width="380" src="https://github-readme-stats.shion.dev/api?username=tygovansteenpaalwork-gif&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
 
-- 🎓 18 jaar, derdejaars student aan het **Grafisch Lyceum Rotterdam**
-- 💻 Geïnteresseerd in **programmeren**, **cybersecurity** en software die dagelijkse taken makkelijker maakt
-- 🌱 Momenteel bezig met het verbeteren van mijn programmeervaardigheden via echte projecten
-- 🎮 In mijn vrije tijd game ik graag
-- ⚡ Altijd op zoek naar manieren om mijn kennis uit te breiden
+-  18 jaar, derdejaars student aan het **Grafisch Lyceum Rotterdam**
+-  Geïnteresseerd in **programmeren**, **cybersecurity** en software die dagelijkse taken makkelijker maakt
+-  Momenteel bezig met het verbeteren van mijn programmeervaardigheden via echte projecten
+-  In mijn vrije tijd game ik graag
+-  Altijd op zoek naar manieren om mijn kennis uit te breiden
 
 <br clear="right" />
 
