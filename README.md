@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="mailto:tygovansteenpaalwerk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=tygovansteenpaalwork-gif&style=for-the-badge&color=ff3d00&label=PROFILE+VIEWS" alt="profile views" />
+  <a href="https://github.com/tygovansteenpaalwork-gif"><img src="https://komarev.com/ghpvc/?username=tygovansteenpaalwork-gif&label=PROFILE%20VIEWS&color=ff3d00&style=for-the-badge&abbreviated=true" alt="Profile views" /></a>
 </p>
 
 ---
