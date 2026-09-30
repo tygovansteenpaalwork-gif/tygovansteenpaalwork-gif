@@ -1,14 +1,98 @@
-# 💫 About Me:
-ik ben Tygo Vansteenpaal, 18 jaar oud en derdejaars student aan het Grafisch Lyceum Rotterdam.<br><br>Ik ben geïnteresseerd in programmeren, cybersecurity en het bouwen van software die dagelijkse taken makkelijker maakt. In mijn vrije tijd game ik graag.<br><br>Ik ben altijd op zoek naar manieren om mijn kennis uit te breiden en mezelf verder te ontwikkelen.<br><br>Momenteel focus ik mij op het verbeteren van mijn programmeervaardigheden en het werken aan projecten waarmee ik praktische ervaring opdoe.
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:b30000,75:ff3d00,100:ff7b00&height=200&section=header&text=Tygo%20Vansteenpaal&fontSize=48&fontColor=ffffff&stroke=c0c0c0&strokeWidth=1&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" alt="header" />
+</p>
 
+<p align="center">
+  <img src="assets/logo.png" width="170" alt="ZetFire logo" />
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tygovansteenpaalwerk@gmail.com) 
+<p align="center">
+  <a href="https://github.com/tygovansteenpaalwork-gif">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Hoi!+Ik+ben+Tygo+%F0%9F%91%8B;Student+%40+Grafisch+Lyceum+Rotterdam;Web+%E2%80%A2+Lua+%E2%80%A2+Python+%E2%80%A2+TypeScript;Altijd+aan+het+bouwen+%F0%9F%9A%80" alt="typing intro" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tygovansteenpaalwork-gif&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tygovansteenpaalwork-gif&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tygovansteenpaalwork-gif&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="mailto:tygovansteenpaalwerk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tygovansteenpaalwork-gif&style=for-the-badge&color=ff3d00&label=PROFILE+VIEWS" alt="profile views" />
+</p>
 
+---
+
+## 💫 Over mij
+
+<img align="right" width="380" src="https://github-readme-stats.shion.dev/api?username=tygovansteenpaalwork-gif&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
+
+- 🎓 18 jaar, derdejaars student aan het **Grafisch Lyceum Rotterdam**
+- 💻 Geïnteresseerd in **programmeren**, **cybersecurity** en software die dagelijkse taken makkelijker maakt
+- 🌱 Momenteel bezig met het verbeteren van mijn programmeervaardigheden via echte projecten
+- 🎮 In mijn vrije tijd game ik graag
+- ⚡ Altijd op zoek naar manieren om mijn kennis uit te breiden
+
+<br clear="right" />
+
+---
+
+## 🛠️ Tech Stack
+
+**Talen**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 🚀 Uitgelichte projecten
+
+<p align="center">
+  <a href="https://github.com/tygovansteenpaalwork-gif/AI_VOICE_JARVIS"><img src="https://github-readme-stats.shion.dev/api/pin/?username=tygovansteenpaalwork-gif&repo=AI_VOICE_JARVIS&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00" alt="AI_VOICE_JARVIS" /></a>
+  <a href="https://github.com/tygovansteenpaalwork-gif/Roblox"><img src="https://github-readme-stats.shion.dev/api/pin/?username=tygovansteenpaalwork-gif&repo=Roblox&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00" alt="Roblox" /></a>
+  <a href="https://github.com/tygovansteenpaalwork-gif/Roblox_lua_script"><img src="https://github-readme-stats.shion.dev/api/pin/?username=tygovansteenpaalwork-gif&repo=Roblox_lua_script&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00" alt="Roblox_lua_script" /></a>
+  <a href="https://github.com/tygovansteenpaalwork-gif/Sites"><img src="https://github-readme-stats.shion.dev/api/pin/?username=tygovansteenpaalwork-gif&repo=Sites&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00" alt="Sites" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=tygovansteenpaalwork-gif&hide_border=true&background=0d0d0d&stroke=ff3d00&ring=ff7b00&fire=ff3d00&currStreakNum=ffb300&currStreakLabel=ff7b00&sideNums=ffffff&sideLabels=c0c0c0&dates=8b8b8b" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tygovansteenpaalwork-gif&hide_border=true&bg_color=0d0d0d&title_color=ff7b00&icon_color=ff3d00&text_color=c0c0c0&border_color=ff3d00&layout=compact&count_private=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tygovansteenpaalwork-gif/tygovansteenpaalwork-gif/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tygovansteenpaalwork-gif/tygovansteenpaalwork-gif/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/tygovansteenpaalwork-gif/tygovansteenpaalwork-gif/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7b00,25:ff3d00,60:b30000,100:0d0d0d&height=120&section=footer" alt="footer" />
+</p>
